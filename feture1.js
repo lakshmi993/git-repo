@@ -1,0 +1,1 @@
+console.log("new feature 2.js file added");
